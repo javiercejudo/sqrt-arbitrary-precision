@@ -1,6 +1,6 @@
 {
   "name": "sqrt-arbitrary-precision",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "sqrt abstraction to extend linear-arbitrary-precision",
   "main": "src/index.js",
   "scripts": {
