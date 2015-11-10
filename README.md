@@ -21,7 +21,7 @@ var adapter = require('floating-adapter');
 
 var Decimal = require('sqrt-arbitrary-precision')(require('linear-arbitrary-precision')(adapter));
 
-new Decimal('2').pow(new Decimal('3')).valueOf(); // => 8
+new Decimal('9').sqrt().valueOf(); // => 3
 ```
 
 See [spec](test/spec.js).
